@@ -21,3 +21,5 @@ UAS BASIS DATA (Topik : Perpustakaan Nasional Jakarta)
       Jika judul buku yannng dimasukan itu tidak ada maka judul bukunya otomatis masuk ke tda (tidak ada data buku) yang masuknya ke decision 1. 
       Jika data bukunya ada,maka akan masuk ke tabung (data base) setelah itu masuk lagi ke decision 1. Lalu jika ingin keluar dari decision 1 dan decision 2,
       maka kalian harus memilih “NO”. Jika memilih “NO” maka akan keluar secara otomatis.
+# Demo Aplikasi
+  ![Demo aplikasi](https://user-images.githubusercontent.com/105486813/173183976-44f6ca2c-7e37-4543-85d3-85142ef2e2d4.jpeg)
