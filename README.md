@@ -4,7 +4,7 @@ UAS BASIS DATA (Topik : Perpustakaan Nasional Jakarta)
   - Diana Eka Putri (2100041)
   - Muhamad Khalid (2105716)
   - Reisha Oktaviani Putri (2102670)
-  - Prodi Mekatronika dan Kecerdasan Buatan (Universitas Pendidikan Indonesia kampus Purwakarta). Kelas : 2A
+  Prodi Mekatronika dan Kecerdasan Buatan (Universitas Pendidikan Indonesia kampus Purwakarta). Kelas : 2A
 # ii. Judul Project : Perpustakaan Nasional Jakarta
 # iii. Problem yang akan diselesaikan
       Banyaknya pengunjung yang datang ke perpustakaan nasional di Jakarta ini mengakibatkan pengelola perpustakaan menjadi 
